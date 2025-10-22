@@ -1,1 +1,1 @@
-From minio/minio:RELEASE.2022-06-25T15-50-16Z
+From minio/minio:latest-arm64
