@@ -1,1 +1,1 @@
-From minio/minio:latest-arm64
+FROM --platform=linux/arm64 minio/minio:latest
